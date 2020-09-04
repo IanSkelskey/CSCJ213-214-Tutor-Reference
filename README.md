@@ -5,5 +5,5 @@ Reference materials for CSCJ231: Advanced C++ Programming at Tunxis Community Co
 Absolute C++ Savitch (ISBN 9780133970784)
 
 # Problem List
-Name - (Problem #, Page #)
+Name - (Problem #, Page #) \n
 Consecutive Double Letters - (14, 424)
